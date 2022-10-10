@@ -1,10 +1,11 @@
 ﻿using System;
+using TaskSystem;
 
 namespace GardenFenceTask
 {
-    internal class Program
+    internal class Program: ITask
     {
-        public static void Main(string[] args)
+        public void Process()
         {
             var firstGeheim = Geheim("HABEAMSONNTAGKEINEZEITMUSSLERNENSORRY");
 
@@ -13,8 +14,7 @@ namespace GardenFenceTask
             var secondGeheim = NichtGeheim("LEEMTEOAEENLMTITROLNIBRIVRNKGLASIDEEBHE");
         
             Console.WriteLine($"Der nicht mehr geheime Code lautet: {secondGeheim}");
-        
-        
+            
             var thirdGeheim = NichtGeheim("AMTWCFLEDERTNWITNEASMITOHALNIESEZESUDNU");
         
             Console.WriteLine($"Der nicht mehr geheime Code lautet: {thirdGeheim}");
@@ -27,7 +27,7 @@ namespace GardenFenceTask
             var decode = Console.ReadLine() ?? throw new InvalidOperationException();
             Console.WriteLine($"Deine Entschlüsselung: {NichtGeheim(decode)}");
         }
-        
+
         private static string Geheim(string input)
         {
             var first = "";
@@ -63,6 +63,11 @@ namespace GardenFenceTask
                 }
             }
             return output;
+        }
+        
+        public string GetName()
+        {
+            return "GardenFence";
         }
     }
 }

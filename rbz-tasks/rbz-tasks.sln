@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTask", "PracticeTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GardenFenceTask", "GardenFenceTask\GardenFenceTask.csproj", "{F5F3A366-7798-4D83-B7DD-922765F5ADFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSystem", "TaskSystem\TaskSystem.csproj", "{DC43C6D3-EA1A-483B-81E1-830D9F1C349E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F5F3A366-7798-4D83-B7DD-922765F5ADFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5F3A366-7798-4D83-B7DD-922765F5ADFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5F3A366-7798-4D83-B7DD-922765F5ADFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC43C6D3-EA1A-483B-81E1-830D9F1C349E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC43C6D3-EA1A-483B-81E1-830D9F1C349E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC43C6D3-EA1A-483B-81E1-830D9F1C349E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC43C6D3-EA1A-483B-81E1-830D9F1C349E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
