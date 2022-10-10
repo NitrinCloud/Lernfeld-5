@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTask", "PracticeTask\PracticeTask.csproj", "{0FFC11D6-8AC3-490F-81F1-AE6FB798247D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GardenFenceTask", "GardenFenceTask\GardenFenceTask.csproj", "{F5F3A366-7798-4D83-B7DD-922765F5ADFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFC11D6-8AC3-490F-81F1-AE6FB798247D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFC11D6-8AC3-490F-81F1-AE6FB798247D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFC11D6-8AC3-490F-81F1-AE6FB798247D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFC11D6-8AC3-490F-81F1-AE6FB798247D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F3A366-7798-4D83-B7DD-922765F5ADFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F3A366-7798-4D83-B7DD-922765F5ADFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F3A366-7798-4D83-B7DD-922765F5ADFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F3A366-7798-4D83-B7DD-922765F5ADFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
