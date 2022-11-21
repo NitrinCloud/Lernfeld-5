@@ -1,0 +1,9 @@
+D:\Schule\rbz-lf5\rbz-tasks\Practise\bin\Debug\Practise.dll
+D:\Schule\rbz-lf5\rbz-tasks\Practise\bin\Debug\Practise.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Practise\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\Practise\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Practise\obj\Debug\Practise.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\Practise\obj\Debug\Practise.csproj.CopyComplete
+D:\Schule\rbz-lf5\rbz-tasks\Practise\obj\Debug\Practise.dll
+D:\Schule\rbz-lf5\rbz-tasks\Practise\obj\Debug\Practise.pdb

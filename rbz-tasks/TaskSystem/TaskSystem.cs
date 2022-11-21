@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace TaskSystem
 {
-    public interface ITask
+    public interface ITaskProcessor
     {
         void Process();
 
@@ -13,7 +13,7 @@ namespace TaskSystem
 
     public class TaskProcessor
     {
-        private readonly List<ITask> _tasks = new List<ITask>();
+        private readonly List<ITaskProcessor> _tasks = new List<ITaskProcessor>();
         
         public void Process()
         {
@@ -22,11 +22,11 @@ namespace TaskSystem
                 var name = task.GetName();
                 Console.WriteLine($"Running Task[{name}]\n\n\n");
                 task.Process();
-                Console.WriteLine($"Stopping Task[{name}]\n\n\n");
+                Console.WriteLine($"\n\n\nStopping Task[{name}]");
             }
         }
 
-        public void AddTask(ITask task)
+        public void AddTask(ITaskProcessor task)
         {
             _tasks.Add(task);
         }

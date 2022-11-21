@@ -1,0 +1,9 @@
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\bin\Debug\Quiz.dll
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\bin\Debug\Quiz.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\obj\Debug\Quiz.dll
+D:\Schule\rbz-lf5\rbz-tasks\Quiz\obj\Debug\Quiz.pdb

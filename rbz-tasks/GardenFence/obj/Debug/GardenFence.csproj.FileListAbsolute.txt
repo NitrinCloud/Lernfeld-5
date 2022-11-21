@@ -1,0 +1,9 @@
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\bin\Debug\GardenFence.dll
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\bin\Debug\GardenFence.pdb
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\obj\Debug\GardenFence.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\obj\Debug\GardenFence.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\obj\Debug\GardenFence.csproj.CopyComplete
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\obj\Debug\GardenFence.dll
+D:\Schule\rbz-lf5\rbz-tasks\GardenFence\obj\Debug\GardenFence.pdb

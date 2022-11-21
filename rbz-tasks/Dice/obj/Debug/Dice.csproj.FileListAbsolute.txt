@@ -1,0 +1,9 @@
+D:\Schule\rbz-lf5\rbz-tasks\Dice\bin\Debug\Dice.dll
+D:\Schule\rbz-lf5\rbz-tasks\Dice\bin\Debug\Dice.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Dice\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\Dice\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Dice\obj\Debug\Dice.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\Dice\obj\Debug\Dice.csproj.CopyComplete
+D:\Schule\rbz-lf5\rbz-tasks\Dice\obj\Debug\Dice.dll
+D:\Schule\rbz-lf5\rbz-tasks\Dice\obj\Debug\Dice.pdb

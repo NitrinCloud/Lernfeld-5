@@ -1,0 +1,9 @@
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\bin\Debug\MagicNumber.dll
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\bin\Debug\MagicNumber.pdb
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\obj\Debug\MagicNumber.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\obj\Debug\MagicNumber.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\obj\Debug\MagicNumber.csproj.CopyComplete
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\obj\Debug\MagicNumber.dll
+D:\Schule\rbz-lf5\rbz-tasks\MagicNumber\obj\Debug\MagicNumber.pdb

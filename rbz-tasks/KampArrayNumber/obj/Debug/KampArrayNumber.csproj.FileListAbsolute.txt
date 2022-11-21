@@ -1,0 +1,9 @@
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\bin\Debug\KampArrayNumber.dll
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\bin\Debug\KampArrayNumber.pdb
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\obj\Debug\KampArrayNumber.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\obj\Debug\KampArrayNumber.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\obj\Debug\KampArrayNumber.csproj.CopyComplete
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\obj\Debug\KampArrayNumber.dll
+D:\Schule\rbz-lf5\rbz-tasks\KampArrayNumber\obj\Debug\KampArrayNumber.pdb

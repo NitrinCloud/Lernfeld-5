@@ -1,0 +1,6 @@
+D:\Schule\rbz-lf5\rbz-tasks\ChatServer\bin\Debug\ChatServer.dll
+D:\Schule\rbz-lf5\rbz-tasks\ChatServer\bin\Debug\ChatServer.pdb
+D:\Schule\rbz-lf5\rbz-tasks\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\ChatServer\obj\Debug\ChatServer.dll
+D:\Schule\rbz-lf5\rbz-tasks\ChatServer\obj\Debug\ChatServer.pdb

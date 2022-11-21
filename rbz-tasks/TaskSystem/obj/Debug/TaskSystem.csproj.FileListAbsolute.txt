@@ -1,0 +1,6 @@
+D:\Schule\rbz-lf5\rbz-tasks\TaskSystem\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\TaskSystem\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\TaskSystem\obj\Debug\TaskSystem.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\TaskSystem\obj\Debug\TaskSystem.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\TaskSystem\obj\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\TaskSystem\obj\Debug\TaskSystem.pdb

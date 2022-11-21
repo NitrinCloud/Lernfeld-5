@@ -1,0 +1,9 @@
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\bin\Debug\Skytale.dll
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\bin\Debug\Skytale.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\bin\Debug\TaskSystem.dll
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\bin\Debug\TaskSystem.pdb
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\obj\Debug\Skytale.csproj.AssemblyReference.cache
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\obj\Debug\Skytale.csproj.CoreCompileInputs.cache
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\obj\Debug\Skytale.csproj.CopyComplete
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\obj\Debug\Skytale.dll
+D:\Schule\rbz-lf5\rbz-tasks\Skytale\obj\Debug\Skytale.pdb

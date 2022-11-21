@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{FB6B2B92-5011-41CF-B47A-534E2B6E1C9E}</ProjectGuid>
+        <OutputType>Exe</OutputType>
+        <AppDesignerFolder>Properties</AppDesignerFolder>
+        <RootNamespace>Processor</RootNamespace>
+        <AssemblyName>Processor</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Xml" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Program.cs" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Dice\Dice.csproj">
+        <Project>{c906b520-d926-4eb3-927b-275964d95f14}</Project>
+        <Name>Dice</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\GardenFence\GardenFence.csproj">
+        <Project>{50bd539a-1af0-46e9-926b-e22273abba9f}</Project>
+        <Name>GardenFence</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\KampArrayNumber\KampArrayNumber.csproj">
+        <Project>{639dbbf3-f5a4-4bc6-921d-ba05ef854c71}</Project>
+        <Name>KampArrayNumber</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\MagicNumber\MagicNumber.csproj">
+        <Project>{245fc583-6362-47f8-9518-8376556cb8d8}</Project>
+        <Name>MagicNumber</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\Practise\Practise.csproj">
+        <Project>{d4773277-19a3-4adf-b082-8d3a8499c16e}</Project>
+        <Name>Practise</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\Quiz\Quiz.csproj">
+        <Project>{18aedc2f-3dd5-4705-91d1-9475c797e219}</Project>
+        <Name>Quiz</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\Skytale\Skytale.csproj">
+        <Project>{4ed5193f-dfa4-40e9-b65d-5f7c609d015a}</Project>
+        <Name>Skytale</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\TaskSystem\TaskSystem.csproj">
+        <Project>{dc43c6d3-ea1a-483b-81e1-830d9f1c349e}</Project>
+        <Name>TaskSystem</Name>
+      </ProjectReference>
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+    <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+
+</Project>
